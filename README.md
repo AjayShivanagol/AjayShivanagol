@@ -1,5 +1,5 @@
 
-![Full Stack Developer | Expert in React React native, Java & Microservices | Crafting Enterprise Solutions](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full Stack Developer | Expert in React React native, Java & Microservices | Crafting Enterprise Solutions](https://github.com/AjayShivanagol/AjayShivanagol/blob/main/ajay.png)
 
 ### Hi there 👋, I'm Ajay Shivanagol
 
