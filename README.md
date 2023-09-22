@@ -6,16 +6,17 @@
 I'm a detail-oriented software developer with over 4 years of experience in designing, developing, and deploying enterprise-level applications. My journey has taken me through leading companies like Mercedes-Benz R&D, Accenture and Nouveau Labs, where I've worked on a range of projects from governance and risk management solutions to advanced analytics platforms. Proficient in a spectrum of technologies and tools, I'm driven by the desire to create efficient, scalable, and impactful software. Open to collaborations and always eager to contribute to open-source projects. Let's build the future of tech together!
 
 ## Skills and Experience
-* ⚛ React
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="15" height="15"/> React
 * 📱 React Native
-*  Java
-*  Spring Boot
-*  Node
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="15" height="15"/> Java
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="15" height="15"/> Spring Boot
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="15" height="15"/> Node
 *  Kong
-*  Java Script
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="15" height="15"/> Java Script
 *  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> Angular
-*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="15" height="15"/>Vue.js
-* 💻 HTML, CSS
+*  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="15" height="15"/> Vue.js
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="15" height="15"/> HTML
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="15" height="15"/> CSS
   
 
 Skills: REACT / REACT NATIVE / JAVA / JS / HTML / CSS
