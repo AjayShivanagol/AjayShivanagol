@@ -19,9 +19,9 @@ I'm a detail-oriented software developer with over 4 years of experience in desi
 *  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="15" height="15"/> Vue.js
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="15" height="15"/> HTML
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="15" height="15"/> CSS
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> Android Studio
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> git
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> Jira
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="15" height="15"/> Android Studio
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="15" height="15" /> git
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="15" height="15" /> Jira
   
 
   
