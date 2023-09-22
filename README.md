@@ -27,6 +27,10 @@ I'm a detail-oriented software developer with over 4 years of experience in desi
 
 👨🏻‍💻 I’m currently working on an enterprise solution named DnA at Mercedes-Benz R&D India as a Full Stack Developer, focused on providing A-Z analytics solutions.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayshivanagol&label=Profile%20views&color=0e75b6&style=flat" alt="ajayshivanagol" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayshivanagol" alt="ajayshivanagol" /></a> </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayshivanagol&show_icons=true&locale=en" alt="ajayshivanagol" /> </p>
 
