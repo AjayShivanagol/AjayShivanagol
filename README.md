@@ -24,8 +24,8 @@ I'm a detail-oriented software developer with over 4 years of experience in desi
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="15" height="15" /> Jira
   
 
-  
-- 👨🏻‍💻 I’m currently working on an enterprise solution named DnA at Mercedes-Benz R&D India as a Full Stack Developer, focused on providing A-Z analytics solutions.
+
+👨🏻‍💻 I’m currently working on an enterprise solution named DnA at Mercedes-Benz R&D India as a Full Stack Developer, focused on providing A-Z analytics solutions.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AjayShivanagol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajay-shivanagol/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ajay.shivanagol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC6hkgshpE9rnhHFhlukComQ)  
 
