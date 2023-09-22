@@ -28,8 +28,6 @@ I'm a detail-oriented software developer with over 4 years of experience in desi
 👨🏻‍💻 I’m currently working on an enterprise solution named DnA at Mercedes-Benz R&D India as a Full Stack Developer, focused on providing A-Z analytics solutions.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayshivanagol&show_icons=true&locale=en&layout=compact" alt="ajayshivanagol" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayshivanagol&show_icons=true&locale=en" alt="ajayshivanagol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayshivanagol&" alt="ajayshivanagol" /></p>
