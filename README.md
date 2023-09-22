@@ -13,7 +13,7 @@ I'm a detail-oriented software developer with over 4 years of experience in desi
 *  Node
 *  Kong
 *  Java Script
-*  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> Angular
+*  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> </a> Angular
 *  Vue
 * 💻 HTML, CSS
   
