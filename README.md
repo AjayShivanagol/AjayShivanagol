@@ -1,7 +1,7 @@
 
 ![Full Stack Developer | Expert in React React native, Java & Microservices | Crafting Enterprise Solutions](https://github.com/AjayShivanagol/AjayShivanagol/blob/main/ajay.png)
 
-![Full Stack Developer | Expert in React React native, Java & Microservices | Crafting Enterprise Solutions](<img src="ajay.png" />)
+![Full Stack Developer | Expert in React React native, Java & Microservices | Crafting Enterprise Solutions](<img src="./ajay.png" />)
 
 ### Hi there 👋, I'm Ajay Shivanagol
 
