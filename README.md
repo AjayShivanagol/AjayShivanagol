@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Ajay Shivanagol
-#### Full Stack Developer | Expert in React React native, Java & Microservices | Crafting Enterprise Solutions
+
 ![Full Stack Developer | Expert in React React native, Java & Microservices | Crafting Enterprise Solutions](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+### Hi there 👋, I'm Ajay Shivanagol
+#### Full Stack Developer | Expert in React React native, Java & Microservices | Crafting Enterprise Solutions
 
 I'm a detail-oriented software developer with over 4 years of experience in designing, developing, and deploying enterprise-level applications. My journey has taken me through leading companies like Mercedes-Benz R&D, Accenture and Nouveau Labs, where I've worked on a range of projects from governance and risk management solutions to advanced analytics platforms. Proficient in a spectrum of technologies and tools, I'm driven by the desire to create efficient, scalable, and impactful software. Open to collaborations and always eager to contribute to open-source projects. Let's build the future of tech together!
 
