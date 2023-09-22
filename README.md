@@ -14,7 +14,7 @@ I'm a detail-oriented software developer with over 4 years of experience in desi
 *  Kong
 *  Java Script
 *  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/> Angular
-*  img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"  width="15" height="15"/> Vue
+*  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"  width="15" height="15"/> Vue
 * 💻 HTML, CSS
   
 
