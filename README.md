@@ -28,5 +28,14 @@ I'm a detail-oriented software developer with over 4 years of experience in desi
 👨🏻‍💻 I’m currently working on an enterprise solution named DnA at Mercedes-Benz R&D India as a Full Stack Developer, focused on providing A-Z analytics solutions.
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayshivanagol&show_icons=true&locale=en&layout=compact" alt="ajayshivanagol" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayshivanagol&show_icons=true&locale=en" alt="ajayshivanagol" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayshivanagol&" alt="ajayshivanagol" /></p>
+
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt='github' height='40' width="40">](https://github.com/AjayShivanagol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajay-shivanagol/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ajay.shivanagol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC6hkgshpE9rnhHFhlukComQ)  
+
+
+
 
