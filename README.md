@@ -3,7 +3,7 @@
 ![Full Stack Developer | Expert in React React native, Java & Microservices | Crafting Enterprise Solutions](https://github.com/AjayShivanagol/AjayShivanagol/blob/main/ajay.png)
 
 
-I'm a detail-oriented software developer with over 4 + years of experience in designing, developing, and deploying enterprise-level applications. My journey has taken me through leading companies like Mercedes-Benz R&D, Accenture and Nouveau Labs Private Limited, where I've worked on a range of projects from governance and risk management solutions to advanced analytics platforms. Proficient in a spectrum of technologies and tools, I'm driven by the desire to create efficient, scalable, and impactful software. Open to collaborations and always eager to contribute to open-source projects. Let's build the future of tech together!
+I'm a detail-oriented software developer with over 4 + years of experience in designing, developing, and deploying enterprise-level applications. My journey has taken me through leading companies like Mercedes-Benz R&D, Accenture and Nouveau Labs Private Limited. Where I've worked on a range of projects from governance and risk management solutions to advanced analytics platforms. Proficient in a spectrum of technologies and tools, I'm driven by the desire to create efficient, scalable, and impactful software. Open to collaborations and always eager to contribute to open-source projects. Let's build the future of tech together!
 
 ## Skills and Experience
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="15" height="15"/> React
